@@ -9,5 +9,5 @@ dumpilb_CXXFLAGS  = -std=gnu++2a
 aowpatch_CXXFLAGS = -std=gnu++2a
 ilb2png_SOURCES   = src/ilb2png.cpp
 dumpilb_SOURCES   = src/dumpilb.cpp
-aowpatch_SOURCES  = src/aowpatch.cpp
+aowpatch_SOURCES  = src/aowpatch.c
 
