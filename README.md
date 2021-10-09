@@ -5,7 +5,10 @@ ILB format image tools for Age of Wonders 1
 Converts the Image Library format for Age of Wonders 1 to a set of PNGs
 
 ## dumpilb
-Dump information of ILB (Image Library format) to stdout
+Dumps information of ILB (Image Library format) files to stdout
+
+## aowpatch
+This *unofficial* patch for Age of Wonders 1.36 tentatively fixes the "Exception during MapViewer.ShowScene" error that can be seen when running AoW on Windows 8 and above, or under Wine on Linux.
 
 ## Links
 
@@ -15,3 +18,4 @@ Dump information of ILB (Image Library format) to stdout
 
 - [dumpilb](http://www.jongware.com/aow/binaries/dumpilb.zip)
 
+- [aowpatch](http://www.github.com/int19h/aow-patch)
