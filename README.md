@@ -1,21 +1,40 @@
-# ilbtools
-ILB format image tools for Age of Wonders 1
+# [ilbtools](http://github.com/jopadan/ilbtools)
+Collection of ILB format image tools applicable for Age of Wonders 1 
 
-## ilb2png
+## About
+
+The ilbtools source code is based on the information provided by the following sources
+
+- [ilb2png](http://github.com/socks-the-fox/ilb2png)
 Converts the Image Library format for Age of Wonders 1 to a set of PNGs
 
-## dumpilb
+- [dumpilb](http://www.jongware.com/aow/binaries/dumpilb.zip)
 Dumps information of ILB (Image Library format) files to stdout
 
-## aowpatch
-This *unofficial* patch for Age of Wonders 1.36 tentatively fixes the "Exception during MapViewer.ShowScene" error that can be seen when running AoW on Windows 8 and above, or under Wine on Linux.
-
-## Links
-
-- [ilb2png](https://github.com/socks-the-fox/ilb2png)
+- [aow-patch](http://www.github.com/int19h/aow-patch)
+This *unofficial* patch for Age of Wonders 1.36 tentatively fixes the "Exception during MapViewer.ShowScene" 
 
 - [Age of Wonders 1: The ILB Format](http://www.jongware.com/aow/aow1.html)
+General information about the ILB format and example implementations of it.
 
-- [dumpilb](http://www.jongware.com/aow/binaries/dumpilb.zip)
+## Build
 
-- [aowpatch](http://www.github.com/int19h/aow-patch)
+```c
+autoreconf -i -s
+./configure
+make install
+```
+
+## Usage
+
+```c
+ilb2png <image.ilb>
+```
+
+```c
+dumpilb <image.ilb>
+```
+
+```c
+aowpatch Ilpack.dpl
+```
