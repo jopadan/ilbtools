@@ -17,6 +17,9 @@ This *unofficial* patch for Age of Wonders 1.36 tentatively fixes the "Exception
 - [Age of Wonders 1: The ILB Format](http://www.jongware.com/aow/aow1.html)
 General information about the ILB format and example implementations of it.
 
+- [Age of Wonders Heaven Forum](https://aow.heavengames.com/cgi-bin/forums/display.cgi?action=ct&f=14,2666,,60)
+Topic for everything about ilbtools
+
 ## Build
 
 ```c
