@@ -1,5 +1,5 @@
 # [ilbtools](http://github.com/jopadan/ilbtools)
-Collection of ILB format image tools applicable for Age of Wonders 1 
+Collection of ILB format image tools applicable to Age of Wonders 1 
 
 - [Age of Wonders Heaven Forum](https://aow.heavengames.com/cgi-bin/forums/display.cgi?action=ct&f=14,2666,,60)
 Topic for everything about ilbtools
