@@ -4,6 +4,9 @@ Collection of ILB format image tools applicable to Age of Wonders 1
 - [Age of Wonders Heaven Forum](https://aow.heavengames.com/cgi-bin/forums/display.cgi?action=ct&f=14,2666,,60)
 Topic for everything about ilbtools
 
+- [Age of Wonders Manual Addendum](https://github.com/HiPhish/Game-Source-Documentation/blob/master/Age%20of%20Wonders/Addendum.rst)
+Manual addendum
+  
 ## About
 
 The ilbtools source code is based on the information provided by the following sources
